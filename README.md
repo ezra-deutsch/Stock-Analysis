@@ -11,10 +11,12 @@ The refactoring was a complete success. Code version A used nested loops to perf
 ### Code Performance Improvement Stats 
 ![A_vs_Refactoring_Stats](https://user-images.githubusercontent.com/88510296/131220247-a4a8448c-a7d0-4f02-8a91-36670b6cb89e.png)
 
-![A_vs_Refactoring_Stats](C:\Users\ezdeu\Desktop\Analysis Projects\Module 2 - VBA of Wall Street\Resources)
-
 ### Version A: Returns and Performance
+![2017_AllStocks](https://user-images.githubusercontent.com/88510296/131220296-ec94d0d4-b604-4f83-970c-9b56d6354c77.png)
+
 ![2017_AllStocks](C:\Users\ezdeu\Desktop\Analysis Projects\Module 2 - VBA of Wall Street\Resources)
+![2018_AllStocks](https://user-images.githubusercontent.com/88510296/131220307-178c0067-2998-4e44-8be4-146f54f6b20d.png)
+
 ![2018_AllStocks](C:\Users\ezdeu\Desktop\Analysis Projects\Module 2 - VBA of Wall Street\Resources)
 
 ### Refactored: Returns and Performance
