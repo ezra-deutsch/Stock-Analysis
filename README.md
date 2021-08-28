@@ -9,6 +9,8 @@
 The refactoring was a complete success. Code version A used nested loops to perform the analysis on all of the lines of data at once. The refactored code broke up the analysis into separate loops and arrays to more easily store the summarized data. This resulted in an 88% improvement in speed. 
 
 ### Code Performance Improvement Stats 
+![A_vs_Refactoring_Stats](https://user-images.githubusercontent.com/88510296/131220247-a4a8448c-a7d0-4f02-8a91-36670b6cb89e.png)
+
 ![A_vs_Refactoring_Stats](C:\Users\ezdeu\Desktop\Analysis Projects\Module 2 - VBA of Wall Street\Resources)
 
 ### Version A: Returns and Performance
